@@ -1,0 +1,9 @@
+T.O.A.S.T.(TOAST):
+- Transparency: What is the problem you’ve identified? Whose problem is it? Why are you/your team the right person/people to take on this project
+- Opportunity: What is your idea, and how does this relate to the problem you’ve identified? What is the nature of your artifact? 
+- Analysis: What else is out there, also dealing with this problem? How is your idea different?
+- Strategy: What would be your first/next steps in tackling this project? What resources will you require to fulfill the needs of this project, and how will you acquire those?
+- Transformation: What does success look like for this project? What will the world look like in 10 years because of this project?
+
+
+
